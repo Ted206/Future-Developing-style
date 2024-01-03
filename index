@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>MyPortfolio</title>
+<meta charset="utf8" />
+<link rel="stylesheet" href="style.css" type="text/css"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body class="body">
+
+<header class="mainHeader">
+<img src="images/LOGO2.png">
+
+<nav><ul>
+<li class="active"><a href="index.html">Home</a></li>
+    <li><a href="about.html"> ...About</a></li>
+    <li><a href="contact.html">...Contact</a></li>
+<li><a href="portfolio.html"> ...Portfolio</a></li>
+</ul></nav>
+</header>
+
+<div class="mainContent">
+<div class="content">
+<article class="topContent">
+<header>
+<h2><a href="#" title="first post"> The Dream comes to Reality</a></h2>
+</header>
+
+<footer>
+<p class="post-info">Created by the Developer "Theodosio Staikopoulo"</p>
+</footer>
+
+<content>
+<p>It does not have to be complicated to be nice. It does not have to be also expensive to feel right. What it needs... is a profesional style. No matter if you are self-employed... or you have 100 people under you.</p>
+<br>
+<p>Nowadays, knowing that everything pass through Internet as an exclusive advertise, the best thing we can do for you... is to be HERE.</p>
+<br>
+<p>Join us and we will Create the best Dynamic WebSite you want. To gain more clients.  To gain more Money.Our target,your satisfaction!</p>
+
+</content>
+</article>
+
+<article class="bottomContent">
+<header>
+<h2><a href="#" title="Second post"> Getting know us</a></h2>
+</header>
+
+
+
+<content>
+<h3>Design</h3>
+<p> The first impression is always the most important. Thats why creating a web site with style as customer need it and depending of the object and the time of posting, is what make the success</p>
+<h3>Development</h3>
+<p>It's not just the visuals details that make an impact. Functionality is a key perception in user experience and so is a seamless workflow.</p>
+<h3>Create</h3>
+<p>With all that in mind I think, design and develop for the user, with collaboration with the client. To create a product that you can only describe with amazing. With repetition</p>
+
+<footer>
+<p class="post-info">Created by the Developer "Theodosio Staikopoulo"</p>
+</footer>
+
+
+</content>
+
+</article>
+</div>
+</div>
+
+<aside class="top-sidebar">
+<article>
+<h2>Vision</h2>
+<p>Welcome to our site. We WILL make you a <strong>WEBSITE</strong> that you will see your <strong>INCOMES</strong> growing More and More Per Day</p>
+</article>
+ </aside>
+ 
+ <aside class="middle-sidebar">
+<article>
+<h2>Methods</h2>
+<p>HTML and CSS is  the most important for your website. Javascript as for your style and PHP is also what you need. Python, Sql, Ajax, C++, Java, and much more.THEMES / Logo / can be created via Photoshop, Corel and any design program that will be seem nice for your expectation for the final result
+</article>
+ </aside>
+ 
+ <aside class="bottom-sidebar">
+<article>
+<h2>Social Media</h2>
+<ul>
+        <li><a href="https://www.facebook.com/pg/T.Staikopoulos/posts/?ref=page_internal" class="facebook" title="Facebook" target="_blank"><img src="images/facebook.png"</a></li>
+		<li><a href="skype:theodosis.staikopoulos?add" class="skype" title="Skype" target="_blank"><img src="images/skype.png"</a></li>
+        <li><a href="https://www.linkedin.com/in/theodosis-staikopoulos-0b702491/" class="linkedin" title="LinkedIn" target="_blank"><img src="images/linkedin.png"</a></li>
+        
+      </ul>
+</article>
+ </aside>
+ 
+ 
+ <footer class="mainFooter">
+<p>Copyright 2018 &copy; futuredeveloping.com  </p>
+ </footer>
+
+ </body>
+</html>
